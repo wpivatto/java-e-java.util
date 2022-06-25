@@ -4,7 +4,6 @@ import br.com.bytebank.banco.modelo.ContaCorrente;
 import br.com.bytebank.banco.modelo.ContaPoupanca;
 import br.com.bytebank.banco.modelo.SaldoInsuficienteException;
 
-//br.com.bytebank.banco.test.TesteContas 
 public class TesteContas {
 
 	//java.lang.String
