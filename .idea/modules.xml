@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/arrays.iml" filepath="$PROJECT_DIR$/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-e-java.util.iml" filepath="$PROJECT_DIR$/java-e-java.util.iml" />
     </modules>
   </component>
 </project>
